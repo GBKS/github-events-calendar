@@ -12,7 +12,12 @@ DTSTAMP:20201014T160000Z
 DTSTART:20201014T160000Z
 DTEND:20201014T170000Z
 SUMMARY:Community Call #5
-URL;VALUE=URI:https://api.github.com/repos/BitcoinDesign/Meta/issues/27
+DESCRIPTION:Find out more at: https://github.com/BitcoinDesign/Meta/issues
+ /27
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/BitcoinDesign/Meta/issues/27\">https://github.com/BitcoinDesign/Meta/iss
+ ues/27</a>
+URL;VALUE=URI:https://github.com/BitcoinDesign/Meta/issues/27
 END:VEVENT
 BEGIN:VEVENT
 UID:713527900@bitcoindesigners.org
@@ -21,6 +26,11 @@ DTSTAMP:20201012T160000Z
 DTSTART:20201012T160000Z
 DTEND:20201012T183000Z
 SUMMARY:Design Review Call #3
-URL;VALUE=URI:https://api.github.com/repos/BitcoinDesign/Meta/issues/26
+DESCRIPTION:Find out more at: https://github.com/BitcoinDesign/Meta/issues
+ /26
+X-ALT-DESC;FMTTYPE=text/html:Find out more at: <a href=\"https://github.co
+ m/BitcoinDesign/Meta/issues/26\">https://github.com/BitcoinDesign/Meta/iss
+ ues/26</a>
+URL;VALUE=URI:https://github.com/BitcoinDesign/Meta/issues/26
 END:VEVENT
 END:VCALENDAR
